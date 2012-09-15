@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TwitterClient</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_twitter_client">TwitterClientActivity</string>
+    <string name="twitter_api_engine_http_error">An error occurred when requesting information from Twitter.</string>
+
+</resources>
